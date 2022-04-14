@@ -10,4 +10,4 @@ The aim is to :
 
 - Build from these collected artifacts digital exhibits that are accessible to the public and to the community.
 
-See our [collected artifacts](https://github.com/Zoroastrian-Digital-Humanities/Artefacts) 
+See our [collected artifacts](https://github.com/Zoroastrian-Digital-Humanities/Artefacts#artefacts)

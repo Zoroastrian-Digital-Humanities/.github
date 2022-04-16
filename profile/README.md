@@ -11,3 +11,5 @@ The aim is to :
 - Build from these collected artifacts digital exhibits that are accessible to the public and to the community.
 
 See our [collected artefacts](https://github.com/Zoroastrian-Digital-Humanities/Artefacts#artefacts)
+
+See our [curated lists about all kinds of interesting topics](https://github.com/Zoroastrian-Digital-Humanities/Awesome#awesome)
